@@ -1,3 +1,5 @@
 git init
 git remote add origin https://github.com/Ayush02004/node-api.git
-git 
+git add --all
+git checkout -b branch_name         [create new branch]
+git merge second_branch             [merge current and second_branch]
